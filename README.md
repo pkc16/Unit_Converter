@@ -1,4 +1,6 @@
 # Unit_Converter
-Unit conversion program (metric &lt;--> english)
+Python3 application to perform unit conversions (metric &lt;--> english).  Conversions for length, mass, volume and temperature.
 
-Conversions for length, mass, volume and temperature.  The unit_converter.py is the file to run.
+
+## Author
+Peter Chung
